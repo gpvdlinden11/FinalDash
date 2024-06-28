@@ -1,0 +1,8 @@
+dash
+dash_bootstrap_components
+dash_table
+jupyter_dash
+pandas
+plotly
+statsmodels
+streamlit
